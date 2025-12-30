@@ -7,8 +7,8 @@
 
 set -e
 
-export DEVICE=fogorow
+export DEVICE=f106pro
 export DEVICE_COMMON=mt6768-common
-export VENDOR=motorola
+export VENDOR=fossibot
 
 "./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"

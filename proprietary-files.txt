@@ -1,4 +1,4 @@
-# Unpinned blobs from fogorow_g-user 14 UTAS34.82-97-3 82-97-3 release-keys
+# Unpinned blobs from f106pro-user 14 UNKNOWN UNKNOWN release-keys
 
 # AEE
 vendor/lib/libaedv.so

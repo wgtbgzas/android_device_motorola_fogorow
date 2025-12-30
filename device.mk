@@ -5,7 +5,7 @@
 #
 
 # Inherit from mt6768-common
-$(call inherit-product, device/motorola/mt6768-common/mt6768.mk)
+$(call inherit-product, device/fossibot/mt6768-common/mt6768.mk)
 
 # NFC
 PRODUCT_PACKAGES += \
@@ -14,7 +14,7 @@ PRODUCT_PACKAGES += \
 
 # Rootdir
 PRODUCT_PACKAGES += \
-    init.fogorow.rc \
+    init.f106pro.rc \
     init.sku.rc
 
 # Soong namespaces
@@ -22,4 +22,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/motorola/fogorow/fogorow-vendor.mk)
+$(call inherit-product, vendor/fossibot/f106pro/f106pro-vendor.mk)

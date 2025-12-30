@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "https://github.com/wgtbgzas/android_device_motorola_mt6768-common.git",
+    "target_path": "device/fossibot/mt6768-common"
+  },
+  {
+    "repository": "https://github.com/wgtbgzas/android_kernel_alps-5.10",
+    "target_path": "kernel/alps-5.10"
+  },
+  {
+    "repository": "https://github.com/wgtbgzas/android_vendor_motorola_fogorow",
+    "target_path": "vendor/fossibot/f106pro"
+  }
+]

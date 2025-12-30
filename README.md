@@ -1,4 +1,4 @@
-# Android device tree for motorola moto g24 (fogorow)
+# Android device tree for Fossibot F106 Pro (f106pro)
 
 ```
 #
